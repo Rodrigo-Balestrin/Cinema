@@ -21,5 +21,4 @@ Selecione o filme desejado (1 a 4):
 Quantos ingressos você deseja?
 
 <h2>Cálculo do valor total dos ingressos</h2>
-O programa calculará o valor total com base na idade fornecida para cada ingresso e aplicará desconto para idades de até 10 anos e 65 anos ou mais exibindo por fim o valor total
-2 Ingressos para o filme 1, no valor de 61.00
+O programa calculará o valor total com base na idade fornecida para cada ingresso e aplicará desconto para idades de até 10 anos e 65 anos ou mais exibindo por fim o valor total.
